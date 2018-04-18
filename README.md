@@ -8,3 +8,5 @@ layer.
 I am a firm beleiver in the value of end to end tests so instead of unit testing my controller I made that the end to
 end test. The Offer and Repository are properly unit tested and I hope you agree with that being enough to show I
 understand how to write a good unit test.
+
+To run `mvn clean install` and then `mvn exec:java` or Just run the OffersApplication class through your IDE.
