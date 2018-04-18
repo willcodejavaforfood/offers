@@ -1,7 +1,6 @@
 package com.echolima.offers;
 
 import com.google.common.annotations.VisibleForTesting;
-import com.google.common.base.Preconditions;
 import com.google.common.base.Strings;
 import org.springframework.beans.factory.annotation.Autowired;
 
